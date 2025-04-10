@@ -2,6 +2,6 @@
 
 Para que la aplicación se ejecute correctamente, se necesitan las siguientes variables de entorno:
 
-MONGODB_URI=tu_cadena_de_conexion_mongodb_aqui
-JWT_SECRET=tu_clave_secreta_jwt_aqui
+MONGODB_URI=mongodb+srv://irinadev:irina1234@cluster0.ro0yoz9.mongodb.net/?retryWrites=true&w=majority
+JWT_SECRET=DzF9t1vX7R9gshCK
 PORT=8080
